@@ -6,7 +6,7 @@ Frontend: https://todo-frontend-five-beige.vercel.app
 
 Backend API: https://todo-api-m3ve.onrender.com
 
-Loom Demo: [Insert Loom video link here]
+ Demo video: [https://drive.google.com/file/d/1rVQIpOaxsfWia3qJ9uLugn_Cd-O3QSBx/view?usp=drive_link]
 
 🛠 Tech Stack
         Layer	Technology Used
